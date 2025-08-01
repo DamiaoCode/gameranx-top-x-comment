@@ -1,0 +1,15 @@
+# YouTube API Configuration
+# 1. Go to Google Cloud Console: https://console.cloud.google.com/
+# 2. Create a new project or select existing one
+# 3. Enable YouTube Data API v3
+# 4. Create OAuth 2.0 credentials
+# 5. Download the client_secrets.json file and place it in this directory
+
+# OpenAI API Configuration
+# 1. Get your API key from: https://platform.openai.com/api-keys
+# 2. Create a .env file with:
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Channel Configuration
+# Update the channel URL in main.py if you want to monitor a different channel
+CHANNEL_URL=https://www.youtube.com/@gameranxTV/videos 
