@@ -16,12 +16,16 @@ Have you ever watched a YouTube video with timestamps but couldn't see the actua
 ### (Original Video)
 
 ![Before Example](images/before_example.png)
+
 _Timestamps without game titles - just "Number 1", "Number 2", etc._
 
 ### Result in Comments
 
 ![Comments Example](images/comments_example.png)
+
 _Automatically posted comment with proper timestamps_
+
+#Note that the images are not from the same video!
 
 ## 🚀 Features
 
