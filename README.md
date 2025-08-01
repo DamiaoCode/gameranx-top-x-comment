@@ -1,6 +1,6 @@
 # YouTube Timestamp Extractor
 
-A Python script that automatically extracts and posts timestamps with game titles from YouTube videos, specifically designed for gaming channels like Gameranx.
+A Python script that automatically extracts and posts timestamps with game titles from YouTube videos, specifically designed for Gameranx.
 
 ## 🎯 The Problem
 
